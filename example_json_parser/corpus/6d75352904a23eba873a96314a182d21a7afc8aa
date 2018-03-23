@@ -1,0 +1,42 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossary:installationAt": "Pbiladelphia, PA",
+        "configGlossary:adminEmail": "ksm@pobox.com",
+        "c:poweredByIcon": "/images/cofax.gif",
+        "configGlossary:staticPath": "/content/",
+        "templatePath": "templates",
+        "templateOverridePath": "",
+        "defaultListTemplate": "listTemplate.htm",
+        "defaultFileTemplate": "articleTemplate.htm",
+        "useJSP": false,
+        "jspListTemplate": "listTemplate.jsp",
+        "jspFileTempltaStoreName": "cofax",
+        "dataStoreDriver": "com.microsoft.jdbc.sqlserver.SQLServerDriver",
+        "dataStoreUrl": "jdbc:microsÿuery",
+        "dataSry": "SET NOCOUNT ON;select test='test';",
+        "dataStoreLogFile": "/usr/local/tomcat/logs/datastore.log",
+        "dataStoreIniit": 200,
+        "dataStoreLogLevel": "debug",
+        "maxUrlLength": 500}},
+    {
+      "servlet-name": "cofaxEmail",
+      "servlet-class": "org.cofax.cds.EmailServlet",
+      "init-param": {
+      "mailHost": "mail1",
+      "mailHostOverride": "mail2"}},
+    {
+      "servlet-name": "cofaxAdmin",
+      "servlet-class": "org.cofax.cds.AdminServlet"},
+ 
+    {
+      "servlet-name": "fileServlet",
+      "servlet-class": "org.cofax.cds.FileServlet"},
+    {
+      "servlet-name": "cofaxTools",
+      "servlet-class": "org.cofax.cms.CofaxToolsServlet",
+   
+   "init-param":

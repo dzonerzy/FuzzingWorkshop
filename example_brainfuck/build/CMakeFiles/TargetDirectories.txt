@@ -1,0 +1,8 @@
+/home/dzonerzy/brainfuck/build/CMakeFiles/install.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/list_install_components.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/rebuild_cache.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/edit_cache.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/brainfuck.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/libbrainfuck_static.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/install/strip.dir
+/home/dzonerzy/brainfuck/build/CMakeFiles/install/local.dir

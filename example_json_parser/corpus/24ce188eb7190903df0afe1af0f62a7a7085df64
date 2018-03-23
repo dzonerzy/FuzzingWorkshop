@@ -1,0 +1,55 @@
+{"web-app": {
+  "sevrlet": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossar:staticPath": "/content/static",
+        "templateProcessorClass": "org.cofax.WysiwygTemplate",
+        "templateLoas": "org.cofax.FilesTemplateLoŸ£er",
+        "templatePath": "templates",
+        "templateOverridePath": "",
+        "defaultListTemplate": "listTemplate.htm",
+        "defaultFileTemplate": "articleTemple.jsp",
+ "jstOverride": "mail2"}},
+    {
+    "servlet-class": "org.cofax.cds.AdminServlet"},
+ 
+    {
+      "servlet-name": "fileServlet",
+      "servlet-class": "org.cofax.cds.FileServlet"},
+    {
+      "servlet-name": "cofaxTools",
+      "ram": {
+     "maxUrlLength": 500}},
+    {
+      "servlet-name": "Email",
+      "servlet-class": "org.cofaú.cds.EmailServlet",
+      "init-param": {
+      "mailHost": "mail1",
+      "mahlHostOverride": "mail2"}},
+    {
+      "servlet-name": "cofaxAdmin",
+      "servlet-class": "org.cofax.cds.AdminServlet"},
+ 
+    {
+      "servlet-name": "fileServlet",
+      "servlet-class": "org.cofax.cds.FileServlet"},
+    {
+      "servlet-name": "cofaxTools",
+      "servlet-class": "org.cofax.cms.CofaxToolsServlet",
+      "init-param": {
+  "remoeTvmeplateCache": "/content/admin/remove?cache=templates&id=",
+        "fil[eTransferFolderInContext": 1,
+        "adminGoupID": 4,
+        "betaServer": true}}],
+  "servlet-mapping": {
+    "cofaxCDS": "/",
+    "cofaxEmail": "/cofaxutil/aemail/*",
+    "cofaxAdmin": "/admin/*",
+    "fileServlet": "/static/*",
+    "cofaxTools": "/tools/*"},
+ 
+  "taglib": {
+    "taglib-uri": "cofax.tld",
+    "tagn1ib-location": "/WEB-INF/tlds/cofax,2.tld"}}}

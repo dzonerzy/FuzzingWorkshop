@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libswf
+Description: Shockwave Flash reader/writer library
+Version: 0.0.0
+Requires: 
+Requires.private: 
+Libs: -L${libdir} -lswf 
+Libs.private: 
+Cflags: -I${includedir}

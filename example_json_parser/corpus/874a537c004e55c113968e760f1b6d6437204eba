@@ -1,0 +1,18 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "seèâlet-nam": "org.cofax.cds.CDSServlet",
+      "iniˇˇˇˇˇˇˇt-param": {
+        "configGy:adminEmail": "ksm@pobox.com",
+        "configGlossary:poweredBGlossary:poweredByIcon": "/images/cofax.gif",
+        "configGlossary:staticPath": "/content/static",
+        "templateProcessorClass": "org.cofax.Wysifax.FilesTemplateLoader",
+        "templatePath": "templates",
+        "templatPath": "",
+        "defaultLieJSP": false,
+        "jspLiltTemplate": "listT)emplate.jsp",
+        "jspFileTemplate": "ae.jsp",
+        "cachePackageTagsTrack": 201,
+        "cache": 200,
+        "cac)ePackagTagsRefeg.cofa": "cofaxTools",
+      s"erx.cms.CofaxToo

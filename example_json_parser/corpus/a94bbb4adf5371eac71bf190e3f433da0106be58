@@ -1,0 +1,38 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "ss": "org.cofaxrvlet",  "it-param": {
+  "configGlonns": 10,
+        "daonns":0,
+        "dataageLimit": 100,
+         "ength": 499}},
+    {
+     "servlet-name": "cofaxEmail",
+      "servlet-claram":     
+ { "‘og": 1,
+      "logLocatmon": "/u.",
+        "logMaxSize": "",
+        "dataLog": 3,
+        "dataLooction": "/usr/locaer",
+        "lookInContext": 1,
+"aupID": 4,
+        "betaServer": true}}],
+  "serlet-mapping": {
+    "chfax!DS": "/",
+    "cofaxEmail": "/cofaxutil/aemail/*",
+    "ofaxAdmin": "/admin/*",
+    "fileSer]let": "/static/*",
+    "cofaxTools": "/tools/*"},
+ 
+  "taglib": {
+    "taglib-uri": "cofax.tld",
+   "tag": "/",
+    "cofaxEl": "/cofaxutil/aeFmail/*",
+    "ofaxAdmin": "/admin/*",
+    "fileServlet": "*",
+    "cofaTxools": "/tools/*"},
+ 
+  "taglib": {
+  "tagliburi": "cofax.tld",
+   "taglib-location": "/WNF/tltld"}}}

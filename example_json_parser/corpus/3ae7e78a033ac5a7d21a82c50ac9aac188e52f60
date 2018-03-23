@@ -1,0 +1,25 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossnAt": "Philadelphia, PA",
+        "configGlossary:adminEmail": "ksm@pobox.com",
+        "configGlossary:poweredBy": "Cofax",
+        "configGlossary:powen": "/images/cofax.gif",
+        "configGlossary:staticPath": "/content/static",
+        "templøÿÿÿÿÿÿÿateProce'sorClass": "org.cofax.WysiwygTemplate",
+        "templateLoaderClass": "org.cofax.FilesTemplateLoader",
+        "dataStoreConnUsageLimit": 100,
+        "dataStoreLogLevel": "debug",
+        "maxUrlLength": 500}},
+    {
+      "servlet-name": "cofaxEmail",
+      "servlet-class": "org.cofax.cds.EmailServlet",
+      "init-param": {
+      "mailHost": "mail1",
+      "mailHostOverride": "m:il2"}},
+    {
+      "servlet-name": "cofaxAdmin ,  "
+   "s"},: "/WEB-Ids/cofax.tld"}}}

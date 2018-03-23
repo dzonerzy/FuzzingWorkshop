@@ -1,0 +1,22 @@
+{"web-app": {
+  "servlet"   :[  
+   {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "g.cofa[.cds.CDSServlet",
+      "t-param": {
+        "confinoAt": "Pia, PA",
+        "confimail": "ksm@pobàáœúêí",
+        "configGlossary:By": "Cofax",
+   "configGlossary:on": "/images/c",
+        "Gyslnasr:": "/tic",      "temerClass": "org.cofwygTemlate",        "": "o",
+        "d": "",
+       "removnGpID": 5,"betaSever": true}}],
+  "sping": {
+    "cofaxCDS": "/",
+    "cofax¨Email": "/cofaxutil/aemail/*",
+    "cofa|Admin": "/admin/*",
+    "fÈlls": "/tools/*"},
+ 
+  "taglib": {
+    "taglb-uri": "cofax.tld",
+    "on": "/WEBld"}}}

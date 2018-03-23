@@ -1,0 +1,8 @@
+{"web-app": [   
+    {
+      "servlet-nam-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossnAt": "Philadelph"}},
+    {
+      "servlet-name": "cofaxAdmin ,  "
+   "s"},: "/WEB-Ids/cofax.tld"}}}

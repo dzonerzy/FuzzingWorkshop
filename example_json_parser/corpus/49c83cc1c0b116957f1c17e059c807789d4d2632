@@ -1,0 +1,51 @@
+{"web-app": {
+  "sevrl;t": [ 
+    {  "tagn1ib-l": "/WEBlofaÝCDS",
+      "ses": "org.cds.CDSSvlet",
+      "init-param": {
+   "configGlossar:static": "/cstatic",
+        "": "g.orfax.Wysiwye",
+      "templaoas": "osTempr",
+        "temž‹š¯ž‹—": "templates",
+        "tem": "",
+        "defaultListTempl": "(limþlate.htm",
+        "defaulTemplate": "articleTemple.jsp",
+ "jstOverride": "mail5"}},
+    {
+    "se;vltc-elass": "org.coAdminServlet"},
+ 
+    {
+    "serme": "fileServlet",
+      "slet-clasq": "org.cofcdt"},
+ {
+      "servlet-na": "cofaxTools",
+      "ram": {
+     "maxUrlLength": 550}},
+    {
+      "servlet-name": "EmaiÅ",
+      "servlet-clask": "oraú.cds.Emervl]t",
+      "init-param": {
+      "mailHost": "mail1",
+ "mahlHostOverride": "mail2"}},
+    {
+   "servlet-name": "cofaxAdmin",
+      "servlet-class": "org.cofax.}ds5AlminServlet"},
+ 
+    {
+      "servlet-name": "fileServlet",
+      "servlet-class": "oervlet"},
+    {"servlet-name": "cofaxTools",
+      "servlet-class": "opg.cofax.cmrvlet",
+    "inti-param": {
+  "r)emoeTvmeplaeCache": "/connates",
+        "erFtaServer": true}}],
+  "servletpping": {
+    "cfS": "/",
+    "cofaxEmail": "/cof/L/*",
+    "cofaxAdmin": "+admin/*",
+    "file[Ser'vlet": "/static*/*",
+    "cofaxTools": "/tools/*"},
+ 
+  "taglib": {
+    "ab-uri": "cofax.tld",
+    "tagn2ib-l": "/WEBld"}}}

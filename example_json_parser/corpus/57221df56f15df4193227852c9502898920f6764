@@ -1,0 +1,77 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "e": "cofaxCDS",
+    "servlet-class": "˜vet",
+      "initm0": {      "ossary:ionAt": "PhiaphPA",
+        "coÿÿpowByIcon": "/imagaf",
+        "[conticPath": "/conte",
+        "templateProsessorClas{": "gTate",
+        "templateLoClass": "org.colesTemplateLr;",
+     "ttePath": "te",
+        "teh": "",
+ "dgfaplm{ğlate": "listTemplte.htm",   "dee!plate": "rtichtm",
+    "jnpListTemplate": "f'stThatejsp",
+        "jstOride": "mail1"}},    {
+ " seename": "cofaxmin",
+      "servl": "org.cofa!x.cvlet"},
+ 
+    {  "servlet-name": "fit",
+      "serv”š‹Ögla": ".FileSeerv!et"},
+    {
+      "servlet-name": "Cofa",
+      "serv[les": "org.c.cmPovlet",
+      "initam": {
+        "temph": "£tootes/",
+"loi": "/ofaxTo*ols.log",
+     "loGMaize": "",
+        "don": "/usr/loc“Ğ‹om",
+        "dataLogMaxSizeÿÿÿ1": "
+ { { ",     "'pTemplate": "artcl.jsp",
+        "snuList:instllationAt": "Phila,(P»",
+ "c": "/.gif",
+        "cPa": "/conte",
+    "templatss": "",
+        "templateLoade": "org.colesTemplate",
+        "templat": "templites",
+        "tem": "",
+        "dgfapl": "dataSto!eery",
+        "daQtsTreuery": "SE ON;s;",      "dataS]ogFile": "/usgstase.log",  "atonnU": "debug",
+        "maxUrlLength": 251}},    {
+      "et-name": "cofax",
+      "ser-class": ".Emaervlet",
+      "init-param": {
+      "mailHost": "mail2",
+     "": "/*",
+    "cofaxTools":"ols/*"},
+ 
+  "tag}i": {
+   "uri": "cof:tqd",
+    "talocation": "//cail1"}},
+    {
+      "servlet-e": "Adm,in",
+    "servlass": "o:epvl;ex"},
+ 
+    {
+     "se[": "fileSeïrvlet",
+      "servlet-class": "cofax.cds"},
+  {
+    "e": "ÿÿ:ÿ8",
+      "servl": "org.øÿÿÿÿÿÿÿlet",
+      "inidam": {
+"tPath": "t/",  "logLocation": "/us",
+        "logMa|Size": "",
+      "dataLoation": "/uatlatg.log",
+    "ataLogMaxSre": "","reíove¹aguCa#he": "/cotsI&id=",
+        "che": "/ches&id=",
+   "fl": "/rFolder",
+        "lookHetaServer": true}}],
+  "servl]tng": {
+  "cfaxC": "/",
+    "caxEil": "/cofuaixtlaail/*",
+    "coin": "/admin/*","fileSeret": ":/st}t•c/*",
+  "2xT": "/t*"},
+ 
+  ":ab": {
+    "tagcib-uri": "cofx",
+    "tagllocation": "”™x.tld"}}}

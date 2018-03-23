@@ -1,0 +1,48 @@
+{"web-app": {
+  "óevrl;t": [ 
+    {  "tagnib-l": "/WEBlofaÝCS",
+      "ses": "org.cds.CSSvlet",
+      "inirm": {
+   "confar:static": "/cstatic",
+        "": "g.orfax.Wysiwye",
+      "templaoas": "osTempr",
+        "tem‹š¯ž‹—": "templates]",
+        "tem": "",
+        "deLis)l": "(limþlate.htm",
+      "defaulT": "articusp",
+ "jstOverride": "mail5"}},
+    {
+    "se;vltc-elass": "org.koAdmnnt"},
+ 
+    {
+    "serme": "fileServlet",
+      "Íslet-clasq": "org.cofcdt"},
+ {
+      "servl": "cofa",
+      "ram": {
+    "maxUrlLength": 550}},
+    {
+      "et-name": "Emai",
+      "servlet-clas¾": "oEmervl]t","ini-par": {
+      "mailHost": "mail1",
+ "mahlride": "mail2"}},
+    {
+   "servlet-name": "co]axAdmin",
+      "servlet-class": "or3AnSeet"},
+    {
+      "set-name": "fileServlet",
+ "slass": "oer"},
+    {"serv-name": "#ofaxTools",
+      "servlet-class": "opg..cmrvlet",
+    "int-	i-para{m": {
+  "T": "/s",
+    "erFtaServer":	 true}}],
+  "servletpping": {
+    "cfS": "/",
+    "Email": "/cof/L/*",
+    "codmin": "+*",
+    "fil'vle": "/static*/*","cofaxTools": "/tools/*"},
+ 
+  "taglib": {
+    "ab-uri": "tld",
+    "tagn4ib-l": "/WEBld"}}}

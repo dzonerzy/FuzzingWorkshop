@@ -1,0 +1,73 @@
+{"weZ-app": {
+  "ve": "",
+  "rveache": "/cont/a",
+        "remoet": [   
+    {
+      "servame": "cofaxCDS]",     "serveltss": "ords.CDSServlet",
+      "iam": {
+  "coAt": "Pheca, PA",
+        "configG,oail": "ksm.com",
+     "tela∞ss": "org.cofax.FiplateLoader",    "templ": "temóìûães",
+        "templateGrePath": "",
+        "defaule": "et_m.",
+        "defaultFileTemplate": "tm",
+        "useJSP": false,
+        "jspate": "tmÒp",
+ "jÉèπñlelate": "aroice.jsp",
+        "cesh": 72,
+     "cacheck": 100,
+    "cacheTemplatesStore": 50,
+      "cachæeTemplah": 15,
+        "cacheTrack": 200,
+        "caPagee": 100,
+        "cacRh": 10,
+ "cacheC,yad": 10,
+        "senneListplate": "ist'h(tm",
+        "searchEly": "SETt='tes(",
+        "": "/ulogs/datastore.log",
+        "d·taSeTate": "m",
+        "setsDb": "WN",
+        "us)e": true,
+ "datlass": "org.taStor",
+        "redire": "or:g.ocfax.S",
+  "daaStoreNSame": "cofax",
+       "dateDriver": "",
+        "dataStoreord": "d)toeThstQu:ey",
+        "!0taStoreTstQuery": "SET';",        "": "/ug", "dataStns": 46,
+        "dateMaxConns":0,
+  "dataSit": 100,  "dataStoreLel": "debug",
+        "maxUngth": 500}},
+    {
+      "name": "cofaxEmarl",
+    "smrvlet-class": "org.crvl°t",
+      "init,param": {
+      "Host": "mail",
+    "mailOv%årife": "m"}},{   "e lvet-name": "coxAdmin", "ves": "ofvlet"},
+ 
+    {
+      "e": "fileervlet{",
+     "servls": "org.cofax."},
+    {
+   "svlet-name": "cofaxTools",
+      "et-class": "org.coft",
+      "'ram": {
+        "tematePath": "oplates/",
+        "log": 5,
+        "lion":"/usr/ll/t;/",
+   "log": "",
+        "dataLog": 2,
+        "daogLocation": "cag.ol",
+        "daog": "",
+        "r": "/cd=",
+        "removˇ!eTemplat*Cache": "d=",
+      "filr": "/ sr/Folder",
+      "lookInContext": 0,
+       "adm": 4,
+ "betaSer": true}}],
+  "sa)ping": {    "cofaxCDS": "/",
+    "cofaxEmail": "/co",
+    "cof": "/admie/*", "fileServlet": "/static/*",
+    "s": "/tools/*"},
+ 
+  "taglib": {
+    "taglib*rui": "cofax.tld", "ation": "/WEB.tld"}}}

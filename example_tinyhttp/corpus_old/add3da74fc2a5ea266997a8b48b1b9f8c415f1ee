@@ -1,0 +1,14 @@
+HTTP/1.1 201 Created
+Location: http://localhost/objectserver/restapi/alerts/status/kf/12481%3ANCOMS
+Cache-Control: no-cache
+Server: libnhttpd
+Date: Wed Jul 4 15:31:53 2012
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+Content-Length: 304
+
+{
+	"entry"S",
+		"uri": "http://localhost/objectserver/restapi/alerts/status/kf/12481%3ANCOMS"
+	}
+}

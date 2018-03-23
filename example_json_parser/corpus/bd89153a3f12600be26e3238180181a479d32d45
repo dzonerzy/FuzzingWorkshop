@@ -1,0 +1,9 @@
+{"app": {
+ "servlet" : [   {
+   "-param": {
+           "defauTempSP": false,
+    "useJSP": false,
+        "jspLisat": false,
+     "cacu{P)": false,
+    "jspto": true}}],
+}}

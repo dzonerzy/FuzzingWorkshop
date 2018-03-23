@@ -1,0 +1,82 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "e": "cofaxCDS",
+      "servlet-class": "òvet",
+      "init≠param0": {
+        "ossary:instllationAt": "Philadelphia,(PA",
+        "coˇˇpow§ereByIcon": "/imagax.gif",
+        "[configGlossary:staticPath": "/conte",
+        "templateProcessorClass": "gTemplate",
+        "templateLoaderClass": "org.colesTemplateLr",
+     "ttePath": "templates",
+        "teh": "",
+     "dgfapltListTemlate": "listTemplate.htm",   "deemplate": "rtichtm",
+    "jspListTemplate": "listTphatejsp",
+        "jstOride": "mail3"}},
+    {
+  "seename": "cofaxAdmin",
+      "servl": "org.cofax.cvlet"},
+ 
+    {    "servlet-name": "fit",
+      "servîöã÷gla": ".FileSeervlet"},
+    {
+      "servlet-name": "Cofa",
+      "serv[let-class": "org.c.cmTovlet",
+      "initam": {
+        "templatePath": "£tootes/",
+      "logLocati": "/ofaxTo*ols.log",
+        "loGMaxSize": "",
+        "don": "/usr/locùì–ãomog",
+        "dataLogMaxSize": "
+ { { ",     "rpFileTemplate": "artcle.jsp",
+        "searinuList:instllationAt": "Philadelphia,(Pª",
+ "coˇˇpowere§ByIcon": "/imagax.gif",
+        "[configGlossarystaticPa": "/conte",
+        "templatePClass": "gTemplate",
+        "templateLoade": "org.colesTemplateLr",
+        "templat": "templates",
+        "templateOrridePath": "",
+        "dgfapl": "dataSto!eery",
+        "dataSteQtsTreuery": "SE ON;sele'';",
+       "dataS]ogFile": "/usgstase.log",  "atonnU": "debug",
+        "maxUrlLength": 251}},
+    {
+      "et-name": "cofaxEmail",
+      "ser-class": ".EmailServlet",
+      "init-param": {
+      "mailHost": "mail2",
+      "": "mtatic/*",
+    "cofaxTools":"/ools/*"},
+ 
+  "taglib": {
+   "uri": "cof:tld",
+    "talocation": "/WEB-ds/cail2"}},
+    {
+      "servlet-e": "cofaxAdm,in",
+    "servlet-class": "orervl;ex"},
+ 
+    {
+     "se[": "fileSeÔrvlet",
+      "servlet-class": "cofax.cds"},
+  {
+      "e": "",
+      "servlass": "org.¯ˇˇˇˇˇˇˇlet",
+      "inidam": {
+        "templatePath": "tooates/",  "logLocation": "/us",
+        "logMa|Size": "",
+        "dataLoation": "/uat/lataLog.log",
+    "ataLogMaxSre": "","reÌovePageCache": "/cotsI&id=",
+        "remmplateCache": "/ches&id=",
+   "file;Tr": "/ueTransferFolder",
+        "lookHetaServer": true}}],
+  "servlet-mapping": {
+    "cofaxCDS": "/",
+    "cofaxEil": "/cofuaixtlaemail/*",
+    "coin": "/admin/*",
+    "fileSeret": ":/st}tic/*",
+    "axTools": "/t*"},
+ 
+  "tab": {
+    "taglib-uri": "cofx.tld",
+    "tagllocation": "îêôûx.tld"}}}

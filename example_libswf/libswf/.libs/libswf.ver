@@ -1,0 +1,12 @@
+{ global:
+swf_add_tag;
+swf_free;
+swf_init;
+swf_parser_append;
+swf_parser_free;
+swf_parser_get_error;
+swf_parser_get_swf;
+swf_parser_init;
+swf_parser_set_callbacks;
+swf_tag_free;
+local: *; };

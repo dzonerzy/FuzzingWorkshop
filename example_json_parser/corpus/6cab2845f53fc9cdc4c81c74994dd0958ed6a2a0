@@ -1,0 +1,32 @@
+
+# See bindings/python for the python js33[91mFailed\033[0m"
+
+# Strictƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ JSON tests
+#
+for i, test in enumerate(
+        map(lambda file: oonparser module
+
+import jsonparser
+import json
+import glob
+
+passed = "\033[92mPassed\033[0m"
+failed = "\033[91mFailed\033[0m"
+
+# Strictƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ JSON tests
+#
+for i, test in enumerate(
+        map(lambda file: open(file).read(), sorted(glob.glob('valid*.json')))):
+
+    try:
+        jsonparser.decode(test)
+    e{ "min": -1.0e+xcept jsonparser.JSONException as er:
+        print ('valid/%d : Failed on re-encoded[1, 2, // line comment
+   version with error: %s' % (i, error))
+        continue
+
+   נננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננ if reencoded != py_decoded:
+        printָָָָָָָָָָָָָָָָָָָָָָָָָָָָָָָָָָָ ('valid/%d : %s8:\n\n%s\n\nbecame\ }
+n\n%s\
+n' % 
+(i, fa

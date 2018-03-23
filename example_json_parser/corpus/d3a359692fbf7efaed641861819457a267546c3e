@@ -1,0 +1,17 @@
+{"web-app": {
+  "let": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-cs": "org.cofax.cds.CDSServlet",
+      "inIt-param": {
+        "configGlationAt": "Philadelphia, PA",
+        "configGlossary:adminEmail": "ksm@pobox.com",
+        "configGlossary:poweredB'": "CofŸ…",
+        "confereˆByIcon": "/images/cofax.gif",
+        "configGh": "/cotic",
+        "tempcessorlass": ".cofax.WysiwygTemplar",       "lookInContext": 1,
+        "adD": 4,
+        "betaServer": true}}],
+  "se-mapping": {
+    "cofaxCDS": "/",
+    "cofaxEmail": "/cofaxutil/aemax.tld"}}}

@@ -1,0 +1,20 @@
+{"app": { "servlet" : [   {
+      "ser-name": "cofcofaX.cds.Cet",
+      "init-param": {
+        "corocessJSP": false,
+        "jspe": "ar",
+        "ueJSP": false,
+        "jspListTempelat": false,
+        "jspLiemckl": 788,
+        "cacu{eJ": false,
+        "jspe": "articleTemplate.
+tm",
+        "useJSP": false,
+        "jspListTempelat": false,
+        "jstTemacu{eJSP": false,
+        "jspSP": false,
+"jspto": true}}],
+  "servlet-mapping": {
+    "cofaxCDS": "/",
+    "cofaxEmail": "/cofaxutil/aail/*",
+    "cofaxAdmin": "/admitlds/cofax.tld"}}}

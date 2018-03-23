@@ -1,0 +1,76 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "e": "cofaxCDS",
+    "servlet-class": "˜vet",
+      "initm0": {      "ossary:ionAt": "PhiaphPA",
+        "coÿÿpowByIcon": "/imagaf",
+        "[conticPath":"/conte",
+        "templateProsessorClas{": "gTate",
+        "templateLoClass": "org.colesTeplateLr;",
+     "ttePath": "te",
+        "teh": "",
+ "dgfaplm{ğlate": "listTemplte.htm",   "dee!plate": "rtichtm",
+    "jnpListTemplate": "f'stThatejsp",
+        "jstO": "mail0"}},    {
+ " seename": "cofaxmin",
+      "servl": "org.#ofa!x.cvlet"},
+ 
+    {  "servlet-name": "fit",
+    "serv”š‹Ögla": ".FileSeerv!et"},
+    {
+      "servlet-name": "Cofa",
+      "s": "org.c.cmPovlet",
+      "initam": {
+        "temph": "£tootes/",
+"loi": "/ofaxTo*ols.log",
+     "loGMaize": "",
+        "don": "/usr/loc“Ğ‹om",
+        "dataLogMaxSizeÿÿÿ2": "
+ { { ",     "'pTemplate": "artcl.jsp",
+        "snuList:instllationAt": "Phila,(P»",
+ "c": "/.gid",
+        "cPa": "/conte",
+    "templatss": "",
+        "templateLoade": "org.colesTemplate",
+        "templat": "templites",
+        "tem": "",
+        "dgfapl": "dataSto!eery",
+        "daQtsTreuery": "SE ON;s;",      "dataS]ogFile": "/usgstase.log",  "atonnU": "debug",
+        "maxUrlLength": 251}},    {
+     "et-name": "cofax",
+      "ser-class": ".Emaervlet",
+      "init-param": {
+      "mailHost": "mail2",
+     "": "/",
+    "cofaxTools":"ols/*"},
+ 
+  "tag}i": {
+   "uri": "cof:tqd",
+    "talocation": "//cail1"}},
+    {
+      "servlet-e": "Adm,in",
+    "servlass": "o:epvl;ex"},
+ 
+    {
+     "se[": "fileSeïrmlet",
+      "servlet-class": "cofax.cds"},
+  {
+    "e": "ÿÿ:ÿ6",
+      "servl": "org.øÿÿÿÿÿÿÿt",
+      "inidam": {
+"tPqth": "t/",  "logLocation": "/us",
+        "logMa|Size": "",
+      "dataLoation": "atg.log",
+    "ataLogMaxSre": "","reíove¹aguCa#he": "/co}sI&id=",
+        "che": "/ches&id=",
+   "fl": "/rFolder",
+        "lookHetaServer": true}}],  "servl]tng": {
+  "cfaxC": "/",
+    "caxEil": "/l/*",
+    "coin": "/admin/*","fileSeret": ":/st}t•c/*",
+  "2xT": "/t*"},
+ 
+  ":ab": {
+    "ib-uri": "cofx",
+    "tagllocation": "”™x.tld"}}}

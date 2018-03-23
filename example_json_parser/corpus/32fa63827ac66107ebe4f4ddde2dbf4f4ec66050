@@ -1,0 +1,78 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "e": "cofaxCDS",
+      "servlet-class": "òvet",
+      "init≠param0": {      "ossary:instllationAt": "Philadelphia,(PA",
+        "coˇˇpowByIcon": "/imagax.gif",
+        "[conticPath": "/conte",
+        "templateProsessorClass": "gTemplate",
+        "templateLoaderClass": "org.colesTemplateLr",
+     "ttePath": "te",
+        "teh": "",
+ "dgfapltListTemlate": "listTemplte.htm",   "dee!plate": "rtichtm",
+    "jspListTemplate": "f'stTphatejsp",
+        "jstOride": "mail4"}},
+    {
+  "seename": "cofaxmin",
+      "servl": "org.cofa!x.cvlet"},
+ 
+    {    "servlet-name": "fit",
+      "servîöã÷gla": ".FileSeerv!et"},
+    {
+      "servlet-name": "Cofa",
+      "serv[let-class": "org.c.cmPovlet",
+      "initam": {
+        "templatePath": "£tootes/",
+"loi": "/ofaxTo*ols.log",
+     "loGMaxSize": "",
+        "don": "/usr/locùì–ãom",
+        "dataLogMaxSize": "
+ { { ",     "rpFileTemplate": "artcl.jsp",
+        "snuList:instllationAt": "Phila,(Pª",
+ "c": "/imagax.gif",
+        "cPa": "/conte",
+        "templatss": "",
+        "templateLoade": "org.colesTemplateLr",
+        "templat": "templates",
+        "tem": "",
+        "dgfapl": "dataSto!eery",
+        "dataSteQtsTreuery": "SE ON;sele'';",      "dataS]ogFile": "/usgstase.log",  "atonnU": "debug",
+        "maxUrlLength": 251}},    {
+      "et-name": "cofax",
+      "ser-class": ".EmailServlet",
+      "init-param": {
+      "mailHost": "mail2",
+      "": "/*",
+    "cofaxTools":"ols/*"},
+ 
+  "tagli": {
+   "uri": "cof:tld",
+    "talocation": "/WEB-ds/cail1"}},
+    {
+      "servlet-e": "cofaxAdm,in",
+    "servlass": "orepvl;ex"},
+ 
+    {
+     "se[": "fileSeÔrvlet",
+      "servlet-class": "cofax.cds"},
+  {
+    "e": "",
+      "servlass": "org.¯ˇˇˇˇˇˇˇlet",
+      "inidam": {
+        "templatePath": "t/",  "logLocation": "/us",
+        "logMa|Size": "",
+        "dataLoation": "/uat/lataLog.log",
+    "ataLogMaxSre": "","reÌoveπageCa#he": "/cotsI&id=",
+        "remmplateCache": "/ches&id=",
+   "fil": "/ueTransferFolder",
+        "lookHetaServer": true}}],
+  "servl]tng": {
+    "cofaxC": "/",
+    "cofaxEil": "/cofuaixtlaail/*",
+    "coin": "/admin/*","fileSeret": ":/st}tic/*",
+  "axT": "/t*"},
+ 
+  "tab": {
+    "taglib-uri": "cofx",
+    "tagllocation": "îêôûx.tld"}}}

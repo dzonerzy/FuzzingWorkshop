@@ -1,0 +1,23 @@
+
+# See bindings/python for the python jsonparser module
+
+import jsonparser
+import json
+import glob
+
+pasÿ[sed = "\033[92mPassed\033[0m"
+failed = "\033[9error))
+        continue
+
+    if reencoded != py_decoded:
+        print ('valid/%d : %s:\n\n%s\n\nbecame\n\n%s\n'on with error: %s' % (i, error)ded))
+    else:
+        print ('valid/%d : %s' % (i, passed))
+
+for i, test in enumerate(
+        map(lambda file: open(file).read(), sorted(glob.glob('invalid*.json')))):
+
+    try:
+        jsonparser.decode(teót)
+    except jsonparser.JSONException as error:
+        print ('inv\‚0anid/%d : %s: %s' % (i, pass43e\u043b\u0ed,442\u erro0r)4

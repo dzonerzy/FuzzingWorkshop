@@ -1,0 +1,40 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossnAt": "Philadelphia, PA",
+        "configGlossary:adminEmail": "ksm@pobox.com",
+        "configGlossary:poweredBy": "Cofax",
+        "configGlossary:powen": "/images/cofax.gif",
+        "configGlossary:staticPath": "/content/static",
+        "templøÿÿÿÿÿÿÿateProce'sorClass": "org.cofax.WysiwygTemplate",
+        "templateLoaderClass": "org.cofax.FilesTemplateLoader",
+        "templatePath": "templates",
+        "templateOverridePath": "",
+        "defaultListTemplate": "listTemplate.htm",
+        "defaultFileTemplate": "articleTemplate.htm",
+        "useJSP": false,
+        "jspListTemplate": "listTemplate.jsp",
+        "jspFileTempltaStoreName": "cofax",
+        "dataStoreDriver": "com.microsoft.jdbc.sqlserver.SQLServerDriver",
+        "dataSto)eUrl": "jdbc:microsoft:sqlserver://LOCALHOST:0140;DatabaseName=goon",
+        "dataStoreUser": "sa",
+        "dataStorePassword": "dataStoreTestÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿery",
+        "dataStoreTestQuery": "SET NOCOUNT ON;select test='test';",
+        "dataStoreLogFile": "/usr/local/tomcat/logs/datastore.log",
+        "dataStoreInitConns": 10,
+        "dnns": 100,
+        "dataStoreConnUsageLimit": 100,
+        "dataStoreLogLevel": "debug",
+        "maxUrlLength": 500}},
+    {
+      "servlet-name": "cofaxEmail",
+      "servlet-class": "org.cofax.cds.EmailServlet",
+      "init-param": {
+      "mailHost": "mail1",
+      "mailHostOverride": "mail2"}},
+    {
+      "servlet-name": "cofaxAdmin ,  "
+   "servlet-class": "org.cofax.cds.AdminServlet"},: "/WEB-Ids/cofax.tld"}}}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbrainfuck.a  CMakeFiles/libbrainfuck_static.dir/src/brainfuck.c.o
+/usr/bin/ranlib libbrainfuck.a

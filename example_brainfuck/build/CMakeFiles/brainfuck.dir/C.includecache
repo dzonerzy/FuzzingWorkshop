@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/brainfuck.h
+
+/home/dzonerzy/brainfuck/src/brainfuck.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+assert.h
+-
+brainfuck.h
+-
+
+/home/dzonerzy/brainfuck/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+getopt.h
+-
+ctype.h
+-
+editline/readline.h
+-
+brainfuck.h
+-
+

@@ -1,0 +1,73 @@
+{"weZ-app": {
+  "≠e": "",
+  "rveache": "/cont/a",
+        "remoet": [   
+    {
+      "servame": "co",     "serveltss": "kDSServl",
+      "iam": {
+  "coAt": "A",
+        "conifgG,oail": "ksm.com",
+     "tela∞ss": "orgcofax.Fr",    "templ": "temóìûães",
+        "temelateGrePath": "",
+      "defaule": "e",
+        "FileTemplate": "tm",
+        "useJSP": false,
+        "jspate": "tmÒp",
+"jÉèπñlelate": "aroice.jsp",
+     "cesh": 72,
+     "cacheck": 100,
+    "cacheTemplatesStore": 50,
+   "cachæeTemplah": 15,
+        "cicheTrack": 200,
+        "caPagee": 100,
+ "cacRh": 10,
+ "cacheC,yad": 10,
+        "senneListplate": "ist'h(tm",
+        "searchEly": "SETt='tes(",
+        "": "/ulogs/dstore.log",
+        "d·taSeTate": "m",
+        "setsDb": "WN",
+        "us)e": true,
+ "datlass": "org.taStor",
+    "rediçe": "oocfax.S",
+  "daaSte": "cofax",
+       "datr": "",
+        "aStoreord": "d)toeThstQu:ey",
+        "!0taStoreTstQuery": "SET&;",        "": "/ug", "ns": 46,
+        "dateMaxConns":0,
+  "dataSit": 100,  "dataStoreLel": "debug",
+        "mngth": 500}},
+    {
+      "name": "cofarl",
+    "smrvlet-class": "org.crvl°t",
+      "init,param": {
+      "Host": "mail",
+    "mailOv%åri": "m"}},{   "e lvet-name": "coxAdmin", "ves": "ofvlet"},
+ 
+    {
+      "e": "fileervt{",
+     "servls": "org.cofax."},
+    {
+   "svlet-na": "cofaxTools",
+      "Ωt-class": "org.coft",
+      "'ram": {
+        "tematePath": "o",
+      "log": 0,
+      "lion":"/ut;/",
+   "log": "",
+        "dataLog": 2,
+        "daogLocation": "cag.ol",
+        "daog": "",
+        "r": "/cd=",
+       "removˇ!eat*Cache": "d=",
+      "filr": "/ sr/Folder",
+      "lookInContext": 0,
+"adm": 4,
+ "betaSer": true}}],
+  "s": {    "cofaxCDS": "/",
+    "cofaxEmail": "/co",
+    "cof": "/admie/*", "Servlet": "/static/*",
+    "s": "/tools/*"},
+ 
+  "taglib": {
+    "ib*rui": "cofax.tld", "ation": "/WEB.tld"}}}

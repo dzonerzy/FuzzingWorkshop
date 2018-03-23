@@ -1,0 +1,14 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossnAt": "Philadelphia, PA",
+        "configGlossary:adminEmail": "ksm@pobox.com",
+        "configGlossary:poweredBy": "Cofax",
+        "configGlossary:powen": "/images/cofax.gif",
+        "config": "m:il2"}},
+    {
+      "servlet-name": "cofaxAdmin ,  "
+   "s"},: "/WEB-Ids/cofax.tld"}}}

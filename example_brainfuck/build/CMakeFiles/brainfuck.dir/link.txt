@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/brainfuck.dir/src/main.c.o CMakeFiles/brainfuck.dir/src/brainfuck.c.o  -o brainfuck -rdynamic -ledit libbrainfuck.a 

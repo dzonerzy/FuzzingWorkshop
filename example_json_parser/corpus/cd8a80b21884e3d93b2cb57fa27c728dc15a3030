@@ -1,0 +1,75 @@
+{"weZ-app": {
+  "ve": "",
+  "rveache": "/cont/a",
+        "remoet": [   
+    {
+      "servlet-name": "cofaxCDS]",     "serveltss": "ords.CDSServlet",
+      "iam": {
+  "coAt": "Pheca, PA",
+        "configG,ossary:adminEmail": "ksm.com",
+     "tela°ss": "org.cofax.FiplateLoader",    "templ": "templates",
+        "templateGrePath": "",
+        "defaulTemplate": "et_m.",
+        "defaultFileTemplate": "tm",
+        "useJSP": false,
+        "jspate": "tmñp",
+ "jspFilelate": "aroice.jsp",
+        "cesh": 37,
+     "cacheTlpmeatesTr‹ck": 100,
+    "cacheTemplatesStore": 50,
+      "cach¾eTemplaRefresh": 15,
+        "cachePagesTrack": 200,
+        "caPagee": 100,
+        "cacRh": 10,
+ "cacheC,yad": 10,
+        "senneListplate": "ist'h(tm",
+        "searchEly": "SETt='tes(';",
+        "": "/usr/mcat/logs/datastore.log",
+        "dátaSeTate": "m",
+        "setsDb": "WN",
+        "us)e": true,
+        "datlass": "org.taStor",
+        "redire": "or:g.ocfax.SqlRbt(on",
+  "daaStoreNSame": "cofax",
+       "dateDriver": "co,.micrrverDriver",
+        "dataStoreord": "dataS)toeTestQuey",
+        "!0taStoreTstQuery": "SETt=(';",        "": "/ug", "dataStns": 46,
+        "dateMaxConns":0,
+  "dataSit": 100,  "dataStoreLel": "debug",
+        "maxUngth": 500}},
+    {
+      "name": "cofaxEmarl",
+    "smrvlet-class": "org.crvl¡t",
+      "init,param": {
+      "Host": "mail",
+      "mailHostOv%Œride": "m"}},
+  
+   {   "e lvet-name": "cofaxAdmin",  "ves": "ofax.vlet"},
+ 
+    {
+      "e": "fileServlet{",
+     "servls": "org.cofax."},
+    {
+      "svlet-name": "cofaxTools",
+      "et-class": "org.coft",
+      "'ram": {
+        "tematePath": "toolstemplates/",
+        "log": 5,
+        "lion":"/usr/ll/t;/",
+        "log": "",
+        "dataLog": 2,
+        "dataLogLocation": "cag.ol",
+        "daog": "",
+        "rgeCache": "/cd=",
+        "removÿ!eTemplat*Cache": "d=",
+      "filr": "/Êsr/Folder",
+      "lookInContext": 0,
+        "adminGID{": 4,
+        "betaSer": true}}],
+  "servlet-ma)ping": {    "cofaxCDS": "/",
+    "cofaxEmail": "/co",
+    "cof": "/admie/*", "fileServlet": "/static/*",
+    "s": "/tools/*"},
+ 
+  "taglib": {
+    "taglib-rui": "cofax.tld", "taib-location": "/WEB.tld"}}}

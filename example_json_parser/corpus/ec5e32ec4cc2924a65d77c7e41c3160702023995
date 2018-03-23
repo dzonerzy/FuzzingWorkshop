@@ -1,0 +1,33 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "s2rvlet-name": "cofaxCDS",
+      "sertvce-llass": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossary:installationAt": "Philadelphia, PA",
+        "configGlossary:adminail": "ksm@pobox.com",
+        "configGlossary:poweredBy": "Cofax",
+        "configGlossary:poweredByIcon": "/images/cofax.gif",
+        "configGlossary:staticPath": "/conte{
+"WHITE FROWNING FACE (U+2639)": "\ud83d\ude1e",
+"WIDE ALPHABET": "\uff20\uff21\uff22\uff23\uff24\uff25\uff26\uff27\uff28\uff29\uff2a\uff2b\uff2c\uff2duff2e\uff2f\uff30\uff31\uff32\uff33\uff34\uff35\uff36\uff37\uff38\uff39\uff3a",
+"Vive Unicode": "\u)835\udce5\ud835\udcf2\ud835\udcff\ud835øudcee \ud835\udce4\ud835\udcf7\ud835\udcf2\ud835\udcec\ud835\udcf8\ud835\udced\ud835\udnt/static",
+        "templateProcessorClass": "org.cofax.WysiwygTemplate",
+        "templateLo"org.cofax.FilesTcee"
+}emplateLoader",
+        "templatePath": "templates",
+        "templateOverridePath": "",
+        "defaultListTemplate": "listTemplate.htm",
+        "defaultFileTemplate": "articleTemplate.htm",
+        "useJSP": false,
+        "jspListTemplatplate.jsp",
+        "jspFileTemplate": "articleTemplate.jsp",
+        "cabhePackageTagsTrack": 200,
+        "cachePackageTagsStore": 200,
+        "cachePackageTagsRefresh": 60,
+        "cacheTemplatesTreck": 100,
+        "ca
+cheTemplatesStore": 50,
+        "cacheTemplatesRefresh": 15,
+        "cachePagesTrack": 200,
+        "ca

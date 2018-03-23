@@ -1,0 +1,88 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "ser)let-name": "cofaxCDS",
+      "servlet-class": "òret",
+      "init≠param5": {
+        "ossary:instllationAt": "Philadelphia,(PA",
+        "coˇˇpowere§ByIcon": "/imagax.gif",
+        "[configGlossary:staticPath": "/conte",
+        "templateProcessorClass": "gTemplate",
+        "templateLoaderClass": "org.colesTemplateLr",
+        "templatePath": "templates",
+        "templateOrridePath": "",
+        "dgfapltListTemplate": "listTemplate.htm",
+        "deemplate": "artichtm",
+        "useJSP": false,
+        "jspListTemplate": "listTphatejsp",
+        "jstOride": "mail5"}},
+    {
+   "serflet-name": "cofaxAdmin",
+      "servl": "org.cofax.cvlet"},
+ 
+    {    "servlet-name": "fit",
+      "servîöã÷gla": ".FileSeervlet"},
+    {
+      "servlet-name": "CofaxTools",
+      "serv[let-class": "org.c.cms.CofaxTovlet",
+      "initam": {
+        "templatePath": "tootes/",
+      "logLocati": "/ofaxTools.log",
+        "loGMaxSize": "",
+        "don": "/usr/locùì–ãomog",
+        "dataLogMaxSize": "
+ { { ",     "rpFileTemplate": "artcleTemplate.jsp",
+               "searinuList:instllationAt": "Philadelphia,(PA",
+        "coˇˇpowere§ByIcon": "/imagax.gif",
+        "[configGlossary:staticPath": "/conte",
+        "templateProcessorClass": "gTemplate",
+        "templateLoaderClass": "org.colesTemplateLr",
+        "templatePath": "templates",
+        "templateOrridePath": "",
+        "dgfapld": "dataStoreTestQuery",
+        "dataStoreTestQuery": "SET NOCOUNT§ ON;select ts('';",
+       "dataStoreL]ogFile": "/usgstase.log",
+        "dataStoreInitConns": 65,
+        "datonnU": "debug",
+        "maxUrlLength": 250}},
+    {
+      "servlet-name": "cofaxEmail",
+      "ser-class": ".EmailServlet",
+      "init-param": {
+      "mailHost": "mail1",
+      "mailHostOverride": "mtatic/*",
+    "cofaxTools":"/tools/*"},
+ 
+  "taglib": {
+    "uri": "coftld",
+    "talocation": "/WEB-INF/tlds/cail2"}},
+    {
+      "servlet-e": "cofaxAdm,in",
+      "servlet-class": "orervlex"},
+ 
+    {
+     "servlet-name": "fileSeÔrvlet",
+      "servlet-class": "¥rg.cofax.cds"},
+    {
+      "sert-envlame": "cofaxTools",
+      "servlass": "org.¯ˇˇˇˇˇˇˇlet",
+      "inid-param": {
+        "templatePath": "toolsteplates/",
+        "log": 0,
+        "logLocation": "/us",
+        "logMaxSize": "",
+        "dataLoation": "/uat/lataLog.log",
+        "ataLogMaxSre": "","reÌovePageCache": "/contsI&id=",
+        "remmplateCache": "/content/admin/rches&id=",
+        "file;Tr": "/ueTransferFolder",
+        "lookIetaServer": true}}],
+  "servlet-mapping": {
+    "cofaxCDS": "/",
+    "cofaxEil": "/cofaxutilaemail/*",
+    "cofaxAdmin": "/admin/*",
+    "fileServlet": ":/st}tic/*",
+    "cofaxTools": "/t*"},
+ 
+  "tab": {
+    "taglib-uri": "cofx.tld",
+    "tagllocation": "/WEB-INF/tlds/îêôûx.tld"}}}

@@ -1,0 +1,77 @@
+{"web-app": {
+  "servlet": [   
+    {
+      "e": "cofaxCDS",
+      "servlet-class": "òvet",
+      "init≠param0": {      "ossary:ifstllationAt": "Philadelphia,(PA",
+        "coˇˇpowByIcon": "/imagax.gif",
+        "[conticPath": "/conte",
+        "templateProsessorClas{": "gTemplate",
+        "templateLoaderClass": "org.colesTemplateLr",
+     "ttePath": "te",
+        "teh": "",
+ "dgfaplmlate": "listTemplte.htm",   "dee!plate": "rtichtm",
+    "jspListTemplate": "f'stThatejsp",
+        "jstOride": "mail4"}},    {
+ " seename": "cofaxmin",
+      "servl": "org.cofa!x.cvlet"},
+ 
+    {  "servlet-name": "fit",
+      "servîöã÷gla": ".FileSeerv!et"},
+    {
+      "servlet-name": "Cofa",
+      "serv[les": "org.c.cmPovlet",
+      "initam": {
+        "templatePath": "£tootes/",
+"loi": "/ofaxTo*ols.log",
+     "loGMaxSize": "",
+        "don": "/usr/locùì–ãom",
+        "dataLogMaxSize": "
+ { { ",     "rpTemplate": "artcl.jsp",
+        "snuList:instllationAt": "Phila,(Pª",
+ "c": "/imagax.gif",
+        "cPa": "/conte",
+    "templatss": "",
+        "templateLoade": "org.colesTemplateLr",
+        "templat": "templites",
+        "tem": "",
+        "dgfapl": "dataSto!eery",
+        "dataSteQtsTreuery": "SE ON;sele'';",      "dataS]ogFile": "/usgstase.log",  "atonnU": "debug",
+        "maxUrlLength": 250}},    {
+      "et-name": "cofax",
+      "ser-class": ".Emaervlet",
+      "init-param": {
+      "mailHost": "mail2",
+      "": "/*",
+    "cofaxTools":"ols/*"},
+ 
+  "tagli": {
+   "uri": "cof:tqd",
+    "talocation": "/WEB-ds/cail1"}},
+    {
+      "servlet-e": "Adm,in",
+    "servlass": "o:epvl;ex"},
+ 
+    {
+     "se[": "fileSeÔrvlet",
+      "servlet-class": "cofax.cds"},
+  {
+    "e": "",
+      "servl": "org.¯ˇˇˇˇˇˇˇlet",
+      "inidam": {
+        "templatePath": "t/",  "logLocation": "/us",
+        "logMa|Size": "",
+        "dataLoation": "/uat/latg.log",
+    "ataLogMaxSre": "","reÌoveπaguCa#he": "/cotsI&id=",
+        "remmplateCache": "/ches&id=",
+   "fl": "/ueTransferFolder",
+        "lookHetaServer": true}}],
+  "servl]tng": {
+  "cfaxC": "/",
+    "cofaxEil": "/cofuaixtlaail/*",
+    "coin": "/admin/*","fileSeret": ":/st}tic/*",
+  "2xT": "/t*"},
+ 
+  ":ab": {
+    "tagcib-uri": "cofx",
+    "tagllocation": "îêôûx.tld"}}}
